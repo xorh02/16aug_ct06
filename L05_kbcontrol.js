@@ -114,10 +114,11 @@ function draw(){
 
 
 }
-// FALSE
+// true
 function keyPressed(){
 
     if(key==="c"||  key==="C"){
         showCircle = !showCircle
+        // showcirlce = true
     }
 }
