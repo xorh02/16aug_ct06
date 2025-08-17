@@ -65,7 +65,8 @@ function keyPressed(){
 
             change size
             change color
-            change position 
+            change position  x
+            change position y
 
     }*/
 
