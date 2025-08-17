@@ -51,4 +51,4 @@ function keyReleased(){
     rectSize = 50;
 }
 
-random(5, 20)
+floor(random(5, 21))
