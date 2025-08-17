@@ -35,7 +35,7 @@ function draw(){
     let centerY = height/2;
 
 
-    let topLeftX = 
+    let topLeftX = centerX
 
 
 
