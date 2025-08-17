@@ -127,5 +127,5 @@
 // -----------------------------------------task 2
 
 function setup(){
-    createCan
+    createCanvas(400,400)
 }
