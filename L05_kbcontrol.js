@@ -117,5 +117,7 @@ function keyPressed(){
     // if(key==="c"||  key==="C"){
     //     showCircle = !showCircle
     // }
-    console.log("key")
+    console.log("key",key);
+    console.log("key",key);
+
 }
