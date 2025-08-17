@@ -56,8 +56,9 @@ function keyPressed(){
         let s = random(10,80);
         //random position
         //random fill
-        fill(random(255), random(255), random(255))
+        fill(random(255), random(255), random(255));
         // create circle
+        ellipse()
     }
 
 }
