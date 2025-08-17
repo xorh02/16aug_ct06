@@ -61,7 +61,8 @@ function setup(){
 
 function keyPressed(){
     // counter??? - how many cirlce
-    
+    let count = random
+
     /* for (let i = 0; end ; step){
 
             change size
