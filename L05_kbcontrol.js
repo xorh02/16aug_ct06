@@ -54,7 +54,9 @@ function keyPressed(){
 
     let count = random(5,21);
 
-    
+    for(let i=0; i<count; i++){
+        
+    }
 
 }
 
