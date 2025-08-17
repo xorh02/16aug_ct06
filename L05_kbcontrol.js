@@ -67,4 +67,4 @@ function keyReleased(){
 
 }
 
-floor(random(5, 21))
+// floor(random(5, 21))
