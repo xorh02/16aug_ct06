@@ -1,4 +1,4 @@
-let shapeColor
+let shapeColor ='blue';
 
 function setup(){
     createCanvas(400,400);
@@ -7,5 +7,5 @@ function setup(){
 }
 
 function mousePressed(){
-
+    
 }
