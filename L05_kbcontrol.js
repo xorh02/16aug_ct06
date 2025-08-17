@@ -139,11 +139,10 @@ function draw(){
 }
 
 function keyPressed(){
-    console.log("key",key);
-    console.log("key code",keyCode);
-    if(key===UP_ARROW){
+   
+    if(keyCode===UP_ARROW){
         shapeColor='red';
-    }else if (key===DOWN_ARROW){
+    }else if (keyCode===DOWN_ARROW){
         shapeColor ='black';
     }
 }
