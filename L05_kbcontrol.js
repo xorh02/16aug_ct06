@@ -70,7 +70,7 @@ function keyPressed(){
         let x = random(size/2, width-size/2)
         let y = random(size/2, height-size/2)
 
-        ellipse(x,y,)
+        ellipse(x,y,size , size);
 
     }
 
