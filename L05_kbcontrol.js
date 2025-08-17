@@ -69,6 +69,8 @@ function keyPressed(){
 
 
         let x = random(size/2, width-size/2)
+        let y = random(size/2, width-size/2)
+
     }
 
     /* for (let i = 0; end ; step){
