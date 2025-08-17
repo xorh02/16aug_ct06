@@ -7,3 +7,11 @@ function setup(){
     noStroke();
 }
 
+
+function mousePressed(){
+
+}
+
+function mouseDragged(){
+    
+}
