@@ -9,7 +9,7 @@ function setup(){
 
 
 function mousePressed(){
-    sha
+    shapeColor = color(random())
 }
 
 function mouseDragged(){
