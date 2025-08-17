@@ -64,7 +64,7 @@ function keyPressed(){
 }
 
 function keyReleased(){
-    
+    background(220);
 }
 
 // floor(random(5, 21))
