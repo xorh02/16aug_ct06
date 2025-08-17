@@ -95,29 +95,31 @@
 
 // ----------------------------------------- key c
 
-let showCircle = false;
+// let showCircle = false;
 
-function setup(){
-    createCanvas(400,400);
-    background(220);
-    stroke(0);
-    fill(255);
-}
+// function setup(){
+//     createCanvas(400,400);
+//     background(220);
+//     stroke(0);
+//     fill(255);
+// }
 
-function draw(){
-    background(220);
-    if(showCircle){
-        circle(width/2, height/2, 200);
-    }
+// function draw(){
+//     background(220);
+//     if(showCircle){
+//         circle(width/2, height/2, 200);
+//     }
 
-}
+// }
 
-function keyPressed(){
+// function keyPressed(){
 
-    // if(key==="c"||  key==="C"){
-    //     showCircle = !showCircle
-    // }
-    console.log("key",key);
-    console.log("key code",keyCode);
+//     // if(key==="c"||  key==="C"){
+//     //     showCircle = !showCircle
+//     // }
 
-}
+
+//     console.log("key",key);
+//     console.log("key code",keyCode);
+
+// }
