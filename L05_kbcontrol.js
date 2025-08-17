@@ -1,4 +1,5 @@
 let shapeColor ='blue';
+let circleSize =5;
 
 function setup(){
     createCanvas(400,400);
@@ -8,4 +9,5 @@ function setup(){
 
 function mousePressed(){
     shapeColor= color(random(255), random(255),random(255))
+    
 }
