@@ -32,5 +32,5 @@ function draw(){
     background(220);
 
 
-    rect(XMLDocument,yield,)
+    rect(topLeftX , topLeftY , rectSize,rectSize)
 }
