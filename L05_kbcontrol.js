@@ -14,5 +14,5 @@ function mousePressed(){
 }
 
 function mouseDragged(){
-    circ
+    circleSize += 0.5;
 }
