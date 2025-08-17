@@ -1,4 +1,4 @@
 
 function setup(){
-    createCa
+    createCanvas(400,400)
 }
