@@ -63,6 +63,8 @@ function keyPressed(){
     // counter??? - how many cirlce
     /* for (let i = 0; end ; step){
 
+            change size
+            change size
 
     }*/
 
