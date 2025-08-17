@@ -31,10 +31,10 @@ function setup(){
 function draw(){
     background(220);
 
+    let centerX
 
 
 
-    
 
     rect(topLeftX , topLeftY , rectSize,rectSize)
 }
