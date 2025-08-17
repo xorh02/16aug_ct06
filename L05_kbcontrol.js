@@ -53,6 +53,8 @@
 
 // ----------------------------------------- challenge 1
 
-function setup()
+function setup(){
+    createCanvas()
+}
 
 floor(random(5, 21))
