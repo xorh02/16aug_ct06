@@ -61,7 +61,7 @@ function setup(){
 
 function keyPressed(){
     // counter??? - how many cirlce
-    
+    // for (let i )
 
 }
 
