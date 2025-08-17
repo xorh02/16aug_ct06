@@ -31,5 +31,6 @@ function setup(){
 function draw(){
     background(220);
 
-    
+
+    rect(XMLDocument,yield,)
 }
