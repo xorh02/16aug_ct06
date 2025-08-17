@@ -60,7 +60,8 @@ function setup(){
 }
 
 function keyPressed(){
-    // c
+    // counter??? - how many cirlce
+    
 
 }
 
