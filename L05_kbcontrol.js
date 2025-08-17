@@ -64,7 +64,7 @@ function keyPressed(){
     /* for (let i = 0; end ; step){
 
             change size
-            change size
+            change color
 
     }*/
 
