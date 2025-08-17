@@ -36,7 +36,7 @@ function draw(){
     let centerY = height/2;
 
 
-    rectSize()
+    rectSize(1.2.3.4)
 
 
 }
