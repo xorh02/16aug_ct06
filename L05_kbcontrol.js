@@ -139,8 +139,8 @@ function draw(){
 }
 
 function keyPressed(){
-    console.log(key);
-    console.log(keyCode);
+    console.log("keyyyyyyyyyyyyyyyyy",key);
+    console.log("this is my key code",keyCode);
 
 
     if(keyCode===UP_ARROW){
