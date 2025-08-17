@@ -53,43 +53,44 @@
 
 // ----------------------------------------- challenge 1
 
-function setup(){
-    createCanvas(400,400);
-    background(220);
-    noStroke();
-}
+// function setup(){
+//     createCanvas(400,400);
+//     background(220);
+//     noStroke();
+// }
 
-function keyPressed(){
-    // counter??? - how many cirlce
-    let count = floor(random(5,21));
+// function keyPressed(){
+//     // counter??? - how many cirlce
+//     let count = floor(random(5,21));
 
-    for(let i=0; i <count; i++){
-        let size = random(10,80);
-        fill(random(255),random(255),random(255));
+//     for(let i=0; i <count; i++){
+//         let size = random(10,80);
+//         fill(random(255),random(255),random(255));
 
-        let x = random(size/2, width-size/2)
-        let y = random(size/2, height-size/2)
+//         let x = random(size/2, width-size/2)
+//         let y = random(size/2, height-size/2)
 
-        ellipse(x,y,size , size);
+//         ellipse(x,y,size , size);
 
-    }
-
-
-}
-
-function keyReleased(){
-    background(220);
-}
+//     }
 
 
-let a = 5;
-let b ="5";
-let c = 7;
+// }
 
-// console.log(a==b);
-// console.log(a===b);
-
-console.log(a!=b);
-console.log(a>=b);
+// function keyReleased(){
+//     background(220);
+// }
 
 
+// let a = 5;
+// let b ="5";
+// let c = 7;
+
+// // console.log(a==b);
+// // console.log(a===b);
+
+// console.log(a!=b);
+// console.log(a>=b);
+
+
+// ----------------------------------------- challenge 1
