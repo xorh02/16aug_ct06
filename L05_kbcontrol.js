@@ -54,7 +54,9 @@
 // ----------------------------------------- challenge 1
 
 function setup(){
-    createCanvas()
+    createCanvas(400,400);
+    background(220);
+    no
 }
 
 floor(random(5, 21))
