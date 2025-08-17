@@ -139,7 +139,7 @@ function draw(){
 }
 
 function keyPressed(){
-    console.log("keyyyyyyyyyyyyyyyyy",key);
+    console.log("keyyyyyyyyyyyyyyyyy",shapeColor);
     console.log("this is my key code",keyCode);
 
 
