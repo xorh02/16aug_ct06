@@ -52,7 +52,7 @@ function setup(){
 
 function keyPressed(){
 
-    let count = random(5,20);
+    let count = random(5,21);
 
 }
 
