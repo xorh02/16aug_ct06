@@ -43,5 +43,6 @@
 //-------------------------------------------------------------------------------------------- pressed & release random circles
 
 function setup(){
-    
+    createCanvas(400,400);
+    background(220)
 }
