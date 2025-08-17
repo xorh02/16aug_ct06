@@ -24,3 +24,5 @@
 // ----------------------------------------- challenge 1
 
 let rectSize = 50;
+
+function setup()
