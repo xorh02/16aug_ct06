@@ -64,7 +64,8 @@ function keyPressed(){
     let count = floor(random(5,21));
 
     for(let i=0; i <count; i++){
-        let size = random(10,80)
+        let size = random(10,80);
+        fill
     }
 
     /* for (let i = 0; end ; step){
