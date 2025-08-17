@@ -55,7 +55,7 @@ function keyPressed(){
         // random size
         let s = random(10,80);
         //random position
-        
+        let x = random(s/2,width -s/2);
 
         //random fill
         fill(random(255), random(255), random(255));
