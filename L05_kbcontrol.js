@@ -67,9 +67,10 @@ function keyPressed(){
         let size = random(10,80);
         fill(random(255),random(255),random(255));
 
-
         let x = random(size/2, width-size/2)
-        let y = random(size/2, width-size/2)
+        let y = random(size/2, height-size/2)
+
+        ellipse(x,y,)
 
     }
 
