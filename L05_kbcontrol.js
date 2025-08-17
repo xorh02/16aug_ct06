@@ -111,6 +111,6 @@ function draw(){
 function keyPressed(){
 
     if(key==="c"|| key==="C"){
-        
+        showCircle =
     }
 }
