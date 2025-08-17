@@ -125,6 +125,7 @@
 // }
 
 // -----------------------------------------task 2
+let shapeColor ='white';
 
 function setup(){
     createCanvas(400,400);
