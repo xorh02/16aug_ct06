@@ -68,7 +68,7 @@ function keyPressed(){
         fill(random(255),random(255),random(255));
 
 
-        let 
+        let x = ran
     }
 
     /* for (let i = 0; end ; step){
