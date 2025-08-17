@@ -36,7 +36,7 @@ function draw(){
     let centerY = height/2;
 
     let topLeftX = centerX - rectSize/2;
-    
+    let topLeftY = centerY -rectSize/2;
 
 
     rectSize(1,2,3,4)
