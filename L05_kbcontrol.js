@@ -139,7 +139,7 @@ function draw(){
 }
 
 function keyPressed(){
-    if(key===UP_ARROW){
-        
+    if(keyCode===UP_ARROW){
+
     }
 }
