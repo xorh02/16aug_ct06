@@ -65,7 +65,8 @@ function keyPressed(){
 
     for(let i=0; i <count; i++){
         let size = random(10,80);
-        fill(random(255),random(255))
+        fill(random(255),random(255),random(255));
+        
     }
 
     /* for (let i = 0; end ; step){
