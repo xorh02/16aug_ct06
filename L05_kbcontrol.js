@@ -5,3 +5,6 @@ function setup(){
     noStroke();
 }
 
+function mousePressed(){
+    
+}
