@@ -53,5 +53,6 @@
 
 // ----------------------------------------- challenge 1
 
+function setup()
 
 floor(random(5, 21))
