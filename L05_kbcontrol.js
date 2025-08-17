@@ -81,4 +81,6 @@ function keyReleased(){
     background(220);
 }
 
-// floor(random(5, 21))
+
+let a = 5;
+let b ="5"
