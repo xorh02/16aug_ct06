@@ -95,6 +95,8 @@
 
 // ----------------------------------------- key c
 
+let showCircle = false;
+
 function setup(){
     createCanvas(400,400);
     background(220);
