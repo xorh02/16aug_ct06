@@ -141,5 +141,7 @@ function draw(){
 function keyPressed(){
     if(keyCode===UP_ARROW){
         shapeColor='red';
-    }else if (keyCode===DOWN_ARROW)
+    }else if (keyCode===DOWN_ARROW){
+        shapeColor ='black';
+    }
 }
