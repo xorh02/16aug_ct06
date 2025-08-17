@@ -61,11 +61,12 @@ function setup(){
 
 function keyPressed(){
     // counter??? - how many cirlce
+    
     /* for (let i = 0; end ; step){
 
             change size
             change color
-            change position  x
+            change position x
             change position y
 
     }*/
