@@ -61,7 +61,7 @@ function setup(){
 
 function keyPressed(){
     // counter??? - how many cirlce
-    let count = random
+    let count = random(5,21)
 
     /* for (let i = 0; end ; step){
 
