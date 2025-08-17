@@ -118,6 +118,6 @@ function keyPressed(){
     //     showCircle = !showCircle
     // }
     console.log("key",key);
-    console.log("key",key);
+    console.log("key code",keyCode);
 
 }
