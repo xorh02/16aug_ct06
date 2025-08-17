@@ -74,14 +74,6 @@ function keyPressed(){
 
     }
 
-    /* for (let i = 0; end ; step){
-
-            change size
-            change color
-            change position x
-            change position y
-
-    }*/
 
 }
 
