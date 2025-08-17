@@ -139,5 +139,7 @@ function draw(){
 }
 
 function keyPressed(){
-    
+    if(key===UP_ARROW){
+        
+    }
 }
