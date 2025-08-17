@@ -32,5 +32,9 @@ function draw(){
     background(220);
 
 
+
+
+    
+
     rect(topLeftX , topLeftY , rectSize,rectSize)
 }
