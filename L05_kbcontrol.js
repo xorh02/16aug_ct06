@@ -56,7 +56,7 @@
 function setup(){
     createCanvas(400,400);
     background(220);
-    no
+    noStroke();
 }
 
 floor(random(5, 21))
